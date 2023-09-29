@@ -1,0 +1,241 @@
+.all{
+      
+    margin-top: 100px;
+align-items: center;
+display: flex;
+height:344px;
+margin-left: 194px;
+  }
+  .attribution { 
+    font-size: 16px;
+text-align: center;
+margin-top: 0px;
+width: 314px;
+height: 440px;
+border: black;
+position: absolute;
+margin-left: 268px;
+background-color: hsl(228, 45%, 44%);
+border-radius: 32px;
+background: linear-gradient( #7022e4 0%, #281586 )
+  }
+  
+  #summary{
+    
+    box-sizing: border-box;
+width: 350px;
+height: 440px;
+margin-left: 551px;
+margin-top: 2px;
+display: inline-block;
+border-top-right-radius: 32px;
+border-bottom-right-radius: 32px;
+background-color: #f8eaea78;
+box-shadow: 4px 4px 4px 3px #ead1d13d;
+
+
+  }
+  .op{
+    color: black;
+    height: 153px;
+    margin-top: -3px;
+    
+    border-radius: 185px;
+    width: 154px;
+    margin-left: 1px;
+    text-align: center;
+    min-width: inherit;
+    word-spacing: 11px;
+    word-wrap: break-word;
+    display: inline-block;
+    background-color:hsla(253, 67.8%, 41.4%, 0.79);
+  }
+  .p{
+    font-size: 20px;
+font-style: normal;
+color: white;
+text-align: center;
+  }
+  #p{
+    font-family:'Poppins', sans-serif;
+  }
+
+.reaction{
+    margin-left: 34px;
+font-weight: bold;
+display: flex;
+background-color: white;
+width: 282px;
+height: 42px;
+border-radius: 8px;
+text-decoration: none;
+margin-left: 34px;
+font-weight: bold;
+display: flex;
+background-color: #f2d4d436;
+
+  }
+
+  .memory{
+    margin-left:34px;
+    font-weight: bold;
+    margin-left: 34px;
+font-weight: bold;
+display: flex;
+background-color: white;
+width: 282px;
+height: 42px;
+border-radius: 8px;
+list-style: none;
+text-decoration: none;
+margin-top: 20px;
+background-color: #f9efe8;}
+
+  .verbal{
+    margin-left:34px;
+    font-weight:bolder ;
+    margin-left: 34px;
+    font-weight: bold;
+    display: flex;
+    background-color: white;
+    width: 282px;
+    height: 42px;
+    border-radius: 8px;
+    list-style: none;
+    text-decoration: none;
+    margin-top: 20px;
+    background-color:  #f1f9f3;
+  }
+
+  .visual{
+    margin-left:34px;
+    font-size: medium;
+    margin-left: 34px;
+font-weight: bold;
+display: flex;
+background-color: white;
+width: 282px;
+height: 42px;
+border-radius: 8px;
+list-style: none;
+text-decoration: none;
+margin-top:20px;
+background-color:#f4f4f9;
+
+  }
+  #div{
+    color:antiquewhite;
+    margin-left:15px;
+  }
+  #class{
+    font-size: 45px;
+font-style: oblique;
+font-weight: 900;
+width: 139px;
+font-family: Hanken Grotesk;
+height: 30px;
+color: white;
+margin-left: 8px;
+margin-top: 39px;
+  }
+  .pc{
+    font-size: 14px;
+font-style: normal;
+word-spacing: 3px;
+margin: -5px;
+color: gray;
+font-weight: 800;
+  }
+  #result{
+    font-style: italic;
+  }
+#box{
+color:red;
+}
+#great{color:white;}
+#tests{color:#cbb0b0;}
+.summary{
+
+color:black;
+margin-left:57px;
+}
+#reaction{
+color: white;
+margin-top: 10px;
+margin-left:6px;
+list-style: none;
+text-decoration: none;
+}
+#memory{
+color:white;
+color: white;
+margin-top: 10px;
+margin-left: 6px;
+list-style: none;
+text-decoration: none;
+}
+#verbal{
+color:white;
+color:white;
+color: white;
+margin-top: 10px;
+margin-left: 6px;
+list-style: none;
+text-decoration: none;
+}
+#visual{
+color:white;
+color:white;
+color: white;
+margin-top: 10px;
+margin-left: 6px;
+list-style: none;
+text-decoration: none;
+}
+.react{
+color:lightcoral;
+margin-top: 10px;
+margin-left: 10px;}
+.mem{color:hsl(39, 100%, 56%);
+margin-top: 10px;
+margin-left: 10px;}
+.verb{color: hsl(166, 100%, 37%);
+margin-top: 10px;
+margin-left: 10px;}
+.vis{color:hsl(234, 85%, 45%);
+margin-top: 11px;
+margin-left: 10px;}
+.pi{margin-top: 93px;
+display: inline;
+margin-left: 97px;
+color: black;}
+.pie{
+  margin-top: 93px;
+display: inline;
+margin-left: 115px;
+color: black;
+
+
+}
+.h{
+  color: white;
+background-color: rgb(24, 24, 57);
+width: 264px;
+margin-left: 54px;
+margin-top: 36px;
+height: 47px;
+border-radius: 111px;
+text-align: center;
+}
+#continue{
+  
+  color: white;
+margin-top: 15px;
+position: absolute;
+margin-left: -44px;
+font-size: 17px;
+text-decoration:none;
+}
+.h:hover{
+  background-color:black;
+}
